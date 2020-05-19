@@ -1,0 +1,16 @@
+.quote-input{
+    width: 300px;
+    padding: 1em;
+    border: none;
+    color: #fff;
+}
+
+.quote-location{
+    margin-top: 3em;
+
+}
+
+.task-input{
+    width: 300px;
+    padding: 1em;
+}

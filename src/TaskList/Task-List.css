@@ -1,0 +1,20 @@
+.task-list{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.check input[type='checkbox'] { 
+    cursor: pointer;
+}
+
+.done, .not-done{
+    padding: 1em;
+}
+
+.not-done {
+    text-decoration: none;
+}
+
+.done {
+    text-decoration: line-through;
+}
